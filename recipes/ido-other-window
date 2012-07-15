@@ -1,0 +1,2 @@
+(ido-other-window :repo "gvalkov/ido-other-window" :fetcher github)
+
